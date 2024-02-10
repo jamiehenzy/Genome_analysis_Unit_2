@@ -1,0 +1,1 @@
+Unit 2 focuses on genomic variation and we'll start by working through the material for [Week 4](https://baylab.github.io/MarineGenomicsSemester/week-4--what-is-a-genetic-variant.html) of a course designed by Serena Caplins and Patrick Krug.
