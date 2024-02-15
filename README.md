@@ -11,4 +11,4 @@ Complete the bowtie tutorial ["Lambda phage example"](https://bowtie-bio.sourcef
 Complete In_class_prep_Feb14. This exercise strengthens your skills in working with sequencing reads and prepares you to work with real data.
 
 ## Deliverable 2D
-Perform the steps applied when analyzing the Marine Genomics data to the real data from the Day lab.
+Perform the steps applied when analyzing the Marine Genomics data to the real data from the Day lab (further instructions to follow).
